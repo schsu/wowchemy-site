@@ -1,39 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Shih-Chieh Hsu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Associate Professor of Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Washington
+  url: https://www.washington.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include search for physics beyond the Standard Model, and Machine Learning.
 
 # Interests to show in About widget
 interests:
+- High Energy Physics
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Heterogeneous computing
+
+awards:
+- DOE career
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Particle Physics
+    institution: University of California San Diego
+    year: 2003-2008
+  - course: MS in Particle Physics
+    institution: National Taiwan University
+    year: 1999-2000
+  - course: BSc in Physics
+    institution: National Taiwan Unvieristy
+    year: 1995-1999
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,35 +46,40 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=D2krRPwAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/schsu
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/shih-chieh-hsu-03100415a/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/schsu_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "schsu@uw.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Principal Investigator
+#- Visitors
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am working on experimental particle physics using proton-proton collision data from the Large Hadron Collider as a member in the UW Elementary Particle Experiment Group. My research interests range from dark matter searches with the ATLAS experiment, neutrino cross-section measurement with the FASER experiment, and innovative Artificial Intelligence algorithms for data-intensive discovery. My team collaborates with Prof. Scott Hauck's ACME Lab to work on the ATLAS Pixel operation, the ATLAS Inner Tracker Pixel upgrade, and accelerated machine learning with heterogeneous computing. In addition, I led physics outreach events to promote STEM education.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/schsu_cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
