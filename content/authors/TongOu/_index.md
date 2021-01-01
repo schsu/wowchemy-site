@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Chicago PhD (2019-)/ UW Undergrad Researcher (2018-2019)
+role: Chicago PhD (2019-)/ Nanjing Visitor (2018)
 
 # Organizations/Affiliations
 organizations:
@@ -68,7 +68,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Alumni Undergrads
 #- Visitors
 ---
 

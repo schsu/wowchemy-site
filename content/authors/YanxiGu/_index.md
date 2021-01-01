@@ -10,19 +10,19 @@ authors:
 superuser: false
 
 # Role/position
-role: UCSD PhD (2020-)/ UW Undergrad Researcher (2019)
+role: UCSD PhD (2020-)/ USTC Visitor (2019)
 
 # Organizations/Affiliations
 organizations:
-- name: University of Washington
+- name: University of California San Diego
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include ATLAS research.
 
 interests:
-- Artificial Intelligence
-- Analysis
+- Particle Physics
+- Chinese music instruments Guzheng and Ruan
 
 education:
   courses:
@@ -41,9 +41,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: linkedin
-  icon_pack: fab
-  link: '#'
+- icon: home
+  icon_pacl: fas
+  link: 'https://guyanxi.wixsite.com/yanxi-gu'
+#- icon: linkedin
+#  icon_pack: fab
+#  link: '#'
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:test@example.org'
@@ -68,8 +71,12 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Alumni Undergrads
 #- Visitors
 ---
 
-Ke Li is a postdoc at the University of Washington.
+Yanxi was a visiting undergraduate from USTC in Summer 2019. Sheworked on two projects: 
+- Engaged in the analysis of CEPC Higgs->ZZ simulation and prediction which focuses on filtering signal from pseudo data and measure Higgs width, served as a core developer
+- Participated in project about the gluon decaying into bb calibration on ATLAS experiment which focuses on fitting the
+scale factor of MC mismodeling with the purpose of measuring the double B tagging efficiency.
+

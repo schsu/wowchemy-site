@@ -17,12 +17,14 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - Principal Investigators
-  - Researchers
-  - Postdoc
-  - Grad Students
-  - Administration
+  - Collaborators
+  - Postdocs
+  - Graduates
+  - Undergrads
   - Visitors
-  - Alumni
+  - Alumni Postdocs
+  - Alumni Grads
+  - Alumni Undergrads
 design:
   show_interests: false
   show_role: true

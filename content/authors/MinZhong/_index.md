@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: UCSD PhD (2020-)/ UW Undergrad Researcher (2019)
+role: UCSD PhD (2020-)/ USTC Visitor (2019)
 
 # Organizations/Affiliations
 organizations:
@@ -68,7 +68,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Alumni Undergrads
 #- Visitors
 ---
 
