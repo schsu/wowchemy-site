@@ -30,7 +30,8 @@ abstract: Computing needs for high energy physics are already intensive and are 
 summary: Heterogeneous computing has the potential for significant gains over traditional computing models. This work represents the first open-source FPGAs-as-a-service toolkit.
 
 tags:
-- Source Themes
+- MLaaS
+- Accelerated AI
 featured: true
 
 links:

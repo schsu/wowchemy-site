@@ -26,7 +26,7 @@ abstract: Top quarks, produced in large numbers at the Large Hadron Collider, ha
 summary: We present a novel approach to this class of problem, based on neural networks using a generalized attention mechanism, that we call Symmetry Preserving Attention Networks (SPA-Net) to outperform existing state-of-the-art methods for jet-parton assignment.
 
 tags:
-- Source Themes
+- Deep Learning
 featured: true
 
 links:
@@ -54,7 +54,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- ML4Collider
+- Deep Learning
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

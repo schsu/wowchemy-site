@@ -34,7 +34,8 @@ summary: Large-scale particle physics experiments face challenging demands for h
 
 
 tags:
-- Source Themes
+- MLaaS
+- Accelerated AI
 featured: false
 
 # links:

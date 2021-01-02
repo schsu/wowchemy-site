@@ -1,18 +1,16 @@
 ---
-title: Search for Dark Matter Produced in Association with a Higgs Boson Decaying to $b\bar b$ using 36 fb$^{-1}$ of $pp$ collisions at $\sqrt s=13$ TeV with the ATLAS Detector
+title: Dark Matter Benchmark Models for Early LHC Run 2 Searches Report of the ATLAS/CMS Dark Matter Forum
 authors:
 - admin
-- SamuelMeehan
 - NikolaWhallon
 author_notes:
-- "Superviser"
-- "JDM convener"
-- "Event Selection optimization"
-date: "2017-11-01T00:00:00Z"
-doi: "10.1103/PhysRevLett.119.181804"
+- "Mono-Boson benchmark"
+- "Mono-Higgs benchmark"
+date: "2020-01-25T00:00:00Z"
+doi: "10.1140/epjc/s10052-020-7631-5"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-11-01T00:00:00Z"
+publishDate: "2020-01-25T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,24 +19,23 @@ publishDate: "2017-11-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physical Review Letters"
-publication_short: "PRL"
+publication: "Phys.Dark Univ."
+publication_short: "PDU"
 
-abstract: Several extensions of the standard model predict associated production of dark-matter particles with a Higgs boson. Such processes are searched for in final states with missing transverse momentum and a Higgs boson decaying to a $b\bar{b}$ pair with the ATLAS detector using 36.1 fb^{-1} of $pp$ collisions at a center-of-mass energy of 13 TeV at the LHC. The observed data are in agreement with the standard model predictions and limits are placed on the associated production of dark-matter particles and a Higgs boson.
+abstract: This document is the final report of the ATLAS-CMS Dark Matter Forum, a forum organized by the ATLAS and CMS collaborations with the participation of experts on theories of Dark Matter, to select a minimal basis set of dark matter simplified models that should support the design of the early LHC Run-2 searches. A prioritized, compact set of benchmark models is proposed, accompanied by studies of the parameter space of these models and a repository of generator implementations. This report also addresses how to apply the Effective Field Theory formalism for collider searches and present the results of such interpretations.
 
 # Summary. An optional shortened abstract.
-summary: Search associated production of dark-matter particles with a Higgs boson in $E_T^{miss}+b\bar{b}" final state with the ATLAS detector using 36.1 fb^{-1} of $pp$ collisions at a center-of-mass energy of 13 TeV at the LHC.
+summary: This report also addresses how to apply the Effective Field Theory formalism for collider searches and present the results of such interpretations.
 
 
 tags:
 - Dark Matter
-- Boosted Higgs
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/1707.01302 
+url_pdf: https://doi.org/10.1016/j.dark.2019.100371
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
@@ -50,7 +47,7 @@ url_pdf: https://arxiv.org/abs/1707.01302
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: Diagram for EFT operators giving rise to a Higgs$+E_T^{miss}$  signature.
   focal_point: ""
   preview_only: false
 
@@ -59,7 +56,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [ATLAS]
+projects: [] 
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

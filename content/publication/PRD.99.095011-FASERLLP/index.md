@@ -29,7 +29,7 @@ summary: The ForwArd Search ExpeRiment (FASER) is an approved experiment dedicat
 
 
 tags:
-- Source Themes
+- Long Lived Particles
 featured: false
 
 # links:

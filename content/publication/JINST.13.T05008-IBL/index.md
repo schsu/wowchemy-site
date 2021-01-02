@@ -1,18 +1,19 @@
 ---
-title: Search for Dark Matter Produced in Association with a Higgs Boson Decaying to $b\bar b$ using 36 fb$^{-1}$ of $pp$ collisions at $\sqrt s=13$ TeV with the ATLAS Detector
+title: Production and Integration of the ATLAS Insertable B-Layer
 authors:
 - admin
-- SamuelMeehan
-- NikolaWhallon
-author_notes:
-- "Superviser"
-- "JDM convener"
-- "Event Selection optimization"
-date: "2017-11-01T00:00:00Z"
-doi: "10.1103/PhysRevLett.119.181804"
+- ScottHauck
+- MarilynMarx
+- JoyMayer
+- ShaoPinChen
+#author_notes:
+#- "Mono-Boson benchmark"
+#- "Mono-Higgs benchmark"
+date: "2018-05-16T00:00:00Z"
+doi: "10.1088/1748-0221/13/05/T05008"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-11-01T00:00:00Z"
+publishDate: "2018-05-16T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,24 +22,23 @@ publishDate: "2017-11-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physical Review Letters"
-publication_short: "PRL"
+publication: Journal of Instrumentation
+publication_short: "JINST"
 
-abstract: Several extensions of the standard model predict associated production of dark-matter particles with a Higgs boson. Such processes are searched for in final states with missing transverse momentum and a Higgs boson decaying to a $b\bar{b}$ pair with the ATLAS detector using 36.1 fb^{-1} of $pp$ collisions at a center-of-mass energy of 13 TeV at the LHC. The observed data are in agreement with the standard model predictions and limits are placed on the associated production of dark-matter particles and a Higgs boson.
+abstract: During the shutdown of the CERN Large Hadron Collider in 2013-2014, an additional pixel layer was installed between the existing Pixel detector of the ATLAS experiment and a new, smaller radius beam pipe. The motivation for this new pixel layer, the Insertable B-Layer (IBL), was to maintain or improve the robustness and performance of the ATLAS tracking system, given the higher instantaneous and integrated luminosities realised following the shutdown. Because of the extreme radiation and collision rate environment, several new radiation-tolerant sensor and electronic technologies were utilised for this layer. This paper reports on the IBL construction and integration prior to its operation in the ATLAS detector.
 
 # Summary. An optional shortened abstract.
-summary: Search associated production of dark-matter particles with a Higgs boson in $E_T^{miss}+b\bar{b}" final state with the ATLAS detector using 36.1 fb^{-1} of $pp$ collisions at a center-of-mass energy of 13 TeV at the LHC.
+summary: This paper reports on the IBL construction and integration prior to its operation in the ATLAS detector.
 
 
 tags:
-- Dark Matter
-- Boosted Higgs
+- Pixel
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/1707.01302 
+url_pdf: https://arxiv.org/abs/1803.00844
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
@@ -50,7 +50,7 @@ url_pdf: https://arxiv.org/abs/1707.01302
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: Longitudinal view of the IBL detector and its services.
   focal_point: ""
   preview_only: false
 
@@ -59,7 +59,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [ATLAS]
+projects: [] 
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
