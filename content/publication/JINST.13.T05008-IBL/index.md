@@ -3,7 +3,7 @@ title: Production and Integration of the ATLAS Insertable B-Layer
 authors:
 - admin
 - ScottHauck
-- MarilynMarx
+- LynnBergmann
 - JoyMayer
 - ShaoPinChen
 #author_notes:

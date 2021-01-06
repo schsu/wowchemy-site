@@ -75,4 +75,4 @@ user_groups:
 #- Visitors
 ---
 
-Ke Li is a postdoc at the University of Washington.
+Samuel Meehan was a postdoc at the University of Washington.

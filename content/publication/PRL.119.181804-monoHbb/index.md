@@ -21,13 +21,13 @@ publishDate: "2017-11-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physical Review Letters"
+publication: "Physical Review Letters"
 publication_short: "PRL"
 
-abstract: Several extensions of the standard model predict associated production of dark-matter particles with a Higgs boson. Such processes are searched for in final states with missing transverse momentum and a Higgs boson decaying to a $b\bar{b}$ pair with the ATLAS detector using 36.1 fb^{-1} of $pp$ collisions at a center-of-mass energy of 13 TeV at the LHC. The observed data are in agreement with the standard model predictions and limits are placed on the associated production of dark-matter particles and a Higgs boson.
+abstract: Several extensions of the standard model predict associated production of dark-matter particles with a Higgs boson. Such processes are searched for in final states with missing transverse momentum and a Higgs boson decaying to a $b\bar{b}$ pair with the ATLAS detector using $36.1 fb^{-1}$ of $pp$ collisions at a center-of-mass energy of 13 TeV at the LHC. The observed data are in agreement with the standard model predictions and limits are placed on the associated production of dark-matter particles and a Higgs boson.
 
 # Summary. An optional shortened abstract.
-summary: Search associated production of dark-matter particles with a Higgs boson in $E_T^{miss}+b\bar{b}" final state with the ATLAS detector using 36.1 fb^{-1} of $pp$ collisions at a center-of-mass energy of 13 TeV at the LHC.
+summary: Search associated production of dark-matter particles with a Higgs boson in $E_T^{miss}+b\bar{b}$ final state with the ATLAS detector using 36.1 fb^{-1} of $pp$ collisions at a center-of-mass energy of 13 TeV at the LHC.
 
 
 tags:

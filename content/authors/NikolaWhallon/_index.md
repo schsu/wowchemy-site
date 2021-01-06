@@ -72,4 +72,4 @@ user_groups:
 #- Visitors
 ---
 
-Ke Li is a postdoc at the University of Washington.
+Nikola Whallon was a graduate student at the University of Washington.

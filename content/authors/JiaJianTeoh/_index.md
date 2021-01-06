@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc (NIKHEF)/ Osaka PhD (2013-2018)
+role: Postdoc (NIKHEF)/ Osaka PhD (2012-2017)
 
 # Organizations/Affiliations
 organizations:
@@ -22,19 +22,14 @@ bio: My research interests include ATLAS research and FASER.
 
 interests:
 - Artificial Intelligence
-- Analysis
+- Big-Data Analysis
+- FPGA Electronics
 
 education:
   courses:
   - course: PhD in Physics
-    institution: Shangdon University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: Osaka University
+    year: 2012-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,9 +56,9 @@ social:
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/CV_TJJ_2020.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -75,4 +70,4 @@ user_groups:
 #- Visitors
 ---
 
-Ke Li is a postdoc at the University of Washington.
+Jia Jian Teoh was a graduate stuent in Osaka University and co-supervised by Hsu for thesis analysis.
