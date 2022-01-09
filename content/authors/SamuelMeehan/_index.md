@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Research Fellow (CERN)/UW Postdoc (2015-2019)
+role: Science and Technology Poli (AAAS)/UW Postdoc (2015-2019)
 
 # Organizations/Affiliations
 organizations:

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Data Scientist (12traits) / UW Postdoc (2013-2015)
+role: Data Science Lead (Solsten) / UW Postdoc (2013-2015)
 
 # Organizations/Affiliations
 organizations:
